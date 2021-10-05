@@ -1,7 +1,7 @@
-# YokaiSwap SDK
+# Boundless SDK
 
-🛠 An SDK for building applications on top of YokaiSwap
+🛠 An SDK for building applications on top of Boundless
 
 ---
 
-forked from [pancakeswap/pancake-swap-sdk](https://github.com/pancakeswap/pancake-swap-sdk)
+forked from [Yokaiswap/yokaiswap-sdk](https://github.com/Yokaiswap/yokaiswap-sdk)

@@ -813,10 +813,10 @@
     lodash "^4.17.19"
     to-fast-properties "^2.0.0"
 
-"@ckb-lumos/base@^0.16.0":
-  version "0.16.0"
-  resolved "https://registry.yarnpkg.com/@ckb-lumos/base/-/base-0.16.0.tgz#e235bf39840bdc08e29e2ccb875d7761c9cde7bf"
-  integrity sha512-tJMOh+xkY/mTCe5lTchweeHg33+dmeiBhgOW8zHAwalZTrHutduL7N0dPSjrYpjP/Midi9LF7g80wEjj9cTM4A==
+"@ckb-lumos/base@^0.18.0-rc1":
+  version "0.18.0-rc1"
+  resolved "https://registry.yarnpkg.com/@ckb-lumos/base/-/base-0.18.0-rc1.tgz#2465f6d66d0ab18e5cea7ffcc8a79da508451ab2"
+  integrity sha512-HzifCF5svubFWDeG636FtdE4qJed3sWwG1huUxlMl4nGL3gdjotGiVm/x6xhedS/wzw//4wFcnEVXcMd/IZikA==
   dependencies:
     blake2b "^2.1.3"
     ckb-js-toolkit "^0.10.2"
@@ -4316,9 +4316,9 @@ ignore@^4.0.6:
   integrity sha512-cyFDKrqc/YdcWFniJhzI42+AzS+gNwmUzOSFcRCQYwySuBBBy/KjuxWLZ/FHEH6Moq1NizMOBWyTcv8O4OZIMg==
 
 immutable@^4.0.0-rc.12:
-  version "4.0.0-rc.14"
-  resolved "https://registry.yarnpkg.com/immutable/-/immutable-4.0.0-rc.14.tgz#29ba96631ec10867d1348515ac4e6bdba462f071"
-  integrity sha512-pfkvmRKJSoW7JFx0QeYlAmT+kNYvn5j0u7bnpNq4N2RCvHSTlLT208G8jgaquNe+Q8kCPHKOSpxJkyvLDpYq0w==
+  version "4.0.0-rc.15"
+  resolved "https://registry.yarnpkg.com/immutable/-/immutable-4.0.0-rc.15.tgz#c30056f05eaaf5650fd15230586688fdd15c54bc"
+  integrity sha512-v8+A3sNyaieoP9dHegl3tEYnIZa7vqNiSv0U6D7YddiZi34VjKy4GsIxrRHj2d8+CS3MeiVja5QyNe4JO/aEXA==
 
 import-fresh@^3.0.0, import-fresh@^3.1.0:
   version "3.2.1"
@@ -5166,9 +5166,9 @@ jsbi@^3.1.1:
   integrity sha512-nBJqA0C6Qns+ZxurbEoIR56wyjiUszpNy70FHvxO5ervMoCbZVE3z3kxr5nKGhlxr/9MhKTSUBs7cAwwuf3g9w==
 
 jsbi@^3.1.2:
-  version "3.1.5"
-  resolved "https://registry.yarnpkg.com/jsbi/-/jsbi-3.1.5.tgz#70c2aaa2f75e1dc7604fed45298061ca23724046"
-  integrity sha512-w2BY0VOYC1ahe+w6Qhl4SFoPvPsZ9NPHY4bwass+LCgU7RK3PBoVQlQ3G1s7vI8W3CYyJiEXcbKF7FIM/L8q3Q==
+  version "3.2.5"
+  resolved "https://registry.yarnpkg.com/jsbi/-/jsbi-3.2.5.tgz#b37bb90e0e5c2814c1c2a1bcd8c729888a2e37d6"
+  integrity sha512-aBE4n43IPvjaddScbvWRA2YlTzKEynHzu7MqOyTipdHucf/VxS63ViCjxYRg86M8Rxwbt/GfzHl1kKERkt45fQ==
 
 jsbn@~0.1.0:
   version "0.1.1"

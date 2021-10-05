@@ -21,10 +21,10 @@ export enum Rounding {
 
 export const FACTORY_ADDRESS =
   Number(process.env.REACT_APP_CHAIN_ID) === ChainId.GWTESTNET
-    ? '0x9816009ADcefC3b510E7BD92300b87d7991C462e' // godwoken testnet
+    ? '0xdBb4F2C23A248dfEE4BD283483630cf98C59Cb10' // godwoken testnet
     : '0x3E08BC5320652090Eac8FAB2acE5fA38fdd3bF22' // godwoken devnet
 
-export const INIT_CODE_HASH = '0x63a0795e9ce9291273519bb2edcd3edd1043cfa10fea99808b19f125f7c743a4'
+export const INIT_CODE_HASH = '0xff2444d51be57dd515c4811e883348d6f027bcd27923a41165dbf81cad4b7829'
 
 export const MINIMUM_LIQUIDITY = JSBI.BigInt(1000)
 

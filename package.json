@@ -1,14 +1,14 @@
 {
-  "name": "@yokaiswap/sdk",
+  "name": "@boundless-fi/sdk",
   "license": "MIT",
-  "version": "0.1.1",
-  "description": "🛠 An SDK for building applications on top of YokaiSwap.",
+  "version": "0.1.3",
+  "description": "🛠 An SDK for building applications on top of Boundless.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/YokaiSwap/yokaiswap-sdk.git",
+  "repository": "https://github.com/boundless-fi/boundless-sdk.git",
   "keywords": [
     "pancakeswap",
     "ethereum"
@@ -23,6 +23,7 @@
     "prepublishOnly": "tsdx build"
   },
   "dependencies": {
+    "@ckb-lumos/base": "^0.18.0-rc1",
     "@pancakeswap-libs/pancake-swap-core": "^0.1.0",
     "big.js": "^5.2.2",
     "decimal.js-light": "^2.5.0",
